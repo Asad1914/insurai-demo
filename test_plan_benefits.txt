@@ -1,0 +1,12 @@
+Plan Name: NE PLAN - AAFIA TPA
+Provider: AAFIA TPA
+Max Coverage: 50000
+Deductible: 0
+Coverage Type: Family Floater
+Features:
+- In-patient hospitalization
+- Daycare procedures
+- Maternity (if applicable)
+- Cashless network of hospitals
+
+Notes: This plan covers typical family floater benefits. Premiums vary by age-band (see attached CSV). Please produce JSON only with fields: provider_name, plans (array) where each plan has plan_name, monthly_cost, annual_cost, deductible, max_coverage, coverage_type, features (array), eligibility, exclusions, document_source.

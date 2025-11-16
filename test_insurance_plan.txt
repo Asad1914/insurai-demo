@@ -1,0 +1,60 @@
+SAMPLE INSURANCE PLAN DOCUMENT
+
+Provider: Abu Dhabi National Insurance Company (ADNIC)
+
+Plan Name: ADNIC Gold Health Plan
+Plan Type: Health
+Coverage Type: Family
+Monthly Premium: 1200 AED
+Annual Premium: 14000 AED
+Deductible: 500 AED
+Maximum Coverage: 500000 AED
+
+Key Features:
+- Comprehensive coverage across UAE
+- Network of 150+ hospitals including NMC, Mediclinic, Burjeel
+- Outpatient coverage up to 10,000 AED annually
+- Maternity coverage included
+- Dental and optical coverage
+- Emergency evacuation services
+- Pre-existing conditions covered after 6 months
+- 24/7 customer support
+
+Eligibility Criteria:
+- UAE residents with valid visa
+- Age: 18-65 years
+- Must provide Emirates ID and passport copy
+
+Exclusions:
+- Cosmetic procedures not covered
+- Experimental treatments excluded
+- War and terrorism related injuries not covered
+- Self-inflicted injuries excluded
+
+---
+
+Plan Name: ADNIC Silver Health Plan
+Plan Type: Health
+Coverage Type: Individual
+Monthly Premium: 450 AED
+Annual Premium: 5200 AED
+Deductible: 1000 AED
+Maximum Coverage: 250000 AED
+
+Key Features:
+- Essential health coverage
+- Network of 80+ hospitals
+- Outpatient coverage up to 5,000 AED annually
+- Emergency coverage included
+- Pharmacy benefits
+- Annual health checkup included
+
+Eligibility Criteria:
+- UAE residents with valid visa
+- Age: 18-60 years
+
+Exclusions:
+- Maternity not covered
+- Dental and optical excluded
+- Pre-existing conditions not covered
+- Cosmetic procedures excluded
