@@ -305,7 +305,7 @@ If you encounter issues not covered in this guide:
 
 ---
 
-**Current URLs** (update with your actual URLs):
+**Current URLs**:
 - Backend: https://insurai-demo.onrender.com
-- Frontend: https://<your-app>.vercel.app
-- Database: Internal URL from Render PostgreSQL dashboard
+- Frontend: https://insurai-demo-5phc-nbo9l8yon-asad-mahmoods-projects-0cbd6d27.vercel.app
+- Database: postgresql://insurai_db_6fpj_user:19hZxtBZSfPzlJ35xQV6JDQ1uv45DygF@dpg-d4dbn4ggjchc73dsb4j0-a/insurai_db_6fpj
