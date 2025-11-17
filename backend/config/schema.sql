@@ -98,7 +98,7 @@ CREATE INDEX idx_chat_session ON chat_history(session_id);
 -- Create default admin user (password: Admin@123)
 -- Password hash for 'Admin@123' using bcrypt with 10 rounds
 INSERT INTO users (email, password_hash, full_name, role, state_id) VALUES
-    ('admin@insurai.com', '$2b$10$rZ8qXj0KFhBx9dJQh3Z8ZeYhR5mK9nB7gY5pL8wQ6xC4tD2vF3nHe', 'System Administrator', 'admin', 1);
+    ('admin@insurai.com', '$2b$10$R84pERM5Rj0vtlyazF7bTuF9QmRewkRPL.MxE/OYdjhM.ddbFcJ9i', 'System Administrator', 'admin', 1);
 
 -- Sample providers
 INSERT INTO providers (name, logo_url, description) VALUES
